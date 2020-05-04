@@ -1,0 +1,9 @@
+05/04/2020: Group meeting to allocate tasks and select objects for analysis. We'll make the GP model together, then separately run and interpret it for each of our objects. The events we've chosen:
+
+Alex   - 2020oi
+Mel    - LSQ12gdj
+Charmi - 1987A
+Cyrus  - 2011fe
+
+
+We're going to meet before class tomorrow (12pm CT) to review papers and begin coding. 
