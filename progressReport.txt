@@ -1,3 +1,6 @@
+05/05/2020: Group meeting to start talking about potential models and review literature. Main current question is what dimensions (1 or 2) we want the model to be in. Today we will continue doing background research on our own and meet again tomorrow to begin coding the model.
+
+
 05/04/2020: Group meeting to allocate tasks and select objects for analysis. We'll make the GP model together, then separately run and interpret it for each of our objects. The events we've chosen:
 
 Alex   - 2020oi
