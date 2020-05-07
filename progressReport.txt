@@ -1,3 +1,5 @@
+05/07/2020: Group meeting to start on a hierarchical model. Tentatively decided that a quadratic rise and a quadratic fall would offer more flexibility for fitting for our very different objects. 
+
 05/06/2020: Group meeting to discuss model parameters and action items for today. Deciding on a squared exponential kernel as noted in Scalzo 2014. Mean model may contain parameters for a quadratic fit in rise, a linear fit in decline, and a peak magnitude. SALT2 parameters are "stretch" (x1) of the lightcurve, peak, and color. Tonight we will each get a mean model and GP for a single band. Tomorrow we will meet to do the hierarchical model for all bands per object.
 
 
