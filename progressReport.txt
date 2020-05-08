@@ -1,7 +1,8 @@
-05/07/2020: Group meeting to start on a hierarchical model. Tentatively decided that a quadratic rise and a quadratic fall would offer more flexibility for fitting for our very different objects. 
+05/08/2020: With the single band GP in pymc3, we were able to also use pymc3 to make a hierarchical model from all the bands. The next step is to convert the magnitudes to flux as a first step to the bolometric lightcurve.
+
+05/07/2020: Group meeting to start on a hierarchical model. Tentatively decided that a quadratic rise and a quadratic fall would offer more flexibility for fitting for our very different objects. The goal today is to take our GPs and write them in pymc3 (instead of george). 
 
 05/06/2020: Group meeting to discuss model parameters and action items for today. Deciding on a squared exponential kernel as noted in Scalzo 2014. Mean model may contain parameters for a quadratic fit in rise, a linear fit in decline, and a peak magnitude. SALT2 parameters are "stretch" (x1) of the lightcurve, peak, and color. Tonight we will each get a mean model and GP for a single band. Tomorrow we will meet to do the hierarchical model for all bands per object.
-
 
 05/05/2020: Group meeting to start talking about potential models and review literature. Main current question is what dimensions (1 or 2) we want the model to be in. Today we will continue doing background research on our own and meet again tomorrow to begin coding the model.
 
