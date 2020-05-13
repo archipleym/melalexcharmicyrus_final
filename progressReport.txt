@@ -1,3 +1,5 @@
+05/12/2020: We all now have reasonable bolometric lightcurves! We are updating slides now with our plots and will be working tomorrow to complete the final presentation. We still need to work out some things to derive photospheric temperatures for our objects - we will see if we have time to get to it.  
+
 05/08/2020: gp models have been created for all 4 objects using a quadratic rise and quadratic fall framework in George. We have started porting this code over to the gp implementation in pymc3, in the hopes that it'll make creation of a hierarchical model smoother. 
 
 05/07/2020: Group meeting to start on a hierarchical model. Tentatively decided that a quadratic rise and a quadratic fall would offer more flexibility for fitting for our very different objects. 
